@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExpandableNotificationAssignment</string>
+    <string name="send_expandable_notification">Send Expandable Notification</string>
+</resources>
